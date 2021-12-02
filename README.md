@@ -1,4 +1,4 @@
-# emLab Standard Operating Procedures
+# Standard Operating Procedures (nice example from emLab)
 
 Standard operating procedures for emLab projects:
 
